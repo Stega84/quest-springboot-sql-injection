@@ -18,7 +18,7 @@
 --
 -- Dumping data for table `credit_card`
 --
-
+USE springboot_bankzecure;
 LOCK TABLES `credit_card` WRITE;
 /*!40000 ALTER TABLE `credit_card` DISABLE KEYS */;
 INSERT INTO `credit_card` VALUES (1,1,'Visa','2438212280315499','567','06/2020');
